@@ -46,7 +46,7 @@ function addNewEqField(){
 // }
 
 //----------------------------------------Genrating cv-------------------------------------------------------
-
+document.getElementById("cv-template").style.display="none";
 function genrateCv(){
    // console.log("genrating cv"); cheking 
 //setting the name fields====================
